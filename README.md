@@ -5,7 +5,7 @@ Overview
 
 This is a detailed summary and findings documentation for the Assessment for a Data Analyst position at remote. There are Three parts to this documentation. The first Part is a summary of the Data quality issues I experienced while answering the questions. 
 The second part covers the SQL findings of the question while the third part covers the summary and findings of the Tableau Visualization. This documentation covers every task that was assigned from task 1 to task 8. 
-At the end of the summary, helpful links will be provided, especially the link to the Visualization. For this link, it’s important to also note that tasks 6, 7 and 8 are in 3 separate types. Once the link is clicked on and takes you to the dashboard, you will see the tabs beside each other at the top right.
+At the end of the summary, helpful links will be provided, especially the link to the Tableau Visualization. For this link, it’s important to also note that tasks 6, 7 and 8 are in 3 separate types. Once the link is clicked on and takes you to the dashboard, you will see the tabs beside each other at the top right.
 
 Caveats
 

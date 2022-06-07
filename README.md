@@ -31,19 +31,19 @@ Part 2: SQL Questions SUMMARY AND FINDINGS
 Task1
 
 Find the highest transaction of each month in 2012 for the product Sport-100 Helmet, Red
--	 	As seen in the query results, it is a common pattern that All the highest transactions were made at the end of the month between the 28th and the 31st. With the month being chronologically arranged, the result shows that June, July, August has the lowest transaction. 
+-	 As seen in the query results, it is a common pattern that All the highest transactions were made at the end of the month between the 28th and the 31st. With the month being chronologically arranged, the result shows that June, July, August has the lowest transaction. 
 
 
 Task2
 
 Find the lowest revenue-generating product for each month in 2012. Include the Sales Territory Country as well.
--	 	The result shows that there are only two products that have the lowest revenue generated, which are AWC Logo Cap and Patch Kit/8 Patches. Although Australia was included in the raw data, but this result shows that Australia didn’t record any low revenue compared to the United States, United Kingdom, France and Canada. The result also shows that each country and product is grouped to each month
+-	 The result shows that there are only two products that have the lowest revenue generated, which are AWC Logo Cap and Patch Kit/8 Patches. Although Australia was included in the raw data, but this result shows that Australia didn’t record any low revenue compared to the United States, United Kingdom, France and Canada. The result also shows that each country and product is grouped to each month
 
 
 Task3
 
 Find the Average Finance Amount for each Scenario (Actual Scenario, Budget Scenario, Forecast Scenario) for each Account Type (Assets, Balances, Liabilities, Flow, Expenditures, Revenue) in 2011.
--	 	In this result, for actual Scenario, there is an amount for every account type, while the Forecast scenario has no amount/expense on any account type. Although, Budget Scenario has only Expenditure and Revenue amount
+-	 In this result, for actual Scenario, there is an amount for every account type, while the Forecast scenario has no amount/expense on any account type. Although, Budget Scenario has only Expenditure and Revenue amount
 
 
 Task4
@@ -60,7 +60,7 @@ Age Group:
 •	Between 35 and 50
 •	Greater than 50
 Segregate the Number of Customers in each age group on Marital Status and Gender.
--	 	In this result, the count of each age group has been grouped under both their gender and marital status. More findings on this query will be explained in the visualization aspect.
+-	 In this result, the count of each age group has been grouped under both their gender and marital status. More findings on this query will be explained in the visualization aspect.
 
 
 
@@ -71,20 +71,20 @@ Part 2: Data Visualization & Analysis
 
 Task6
 Based on your results for question #2 above, create a visualization to highlight the sales territories with the lowest sales performances. Are there any territories with consistent low sales performance over time?
--	 	In the map visual, the red colour signifies which country is consistently low, while the green colour shows which country is doing better.
+-	 In the map visual, the red colour signifies which country is consistently low, while the green colour shows which country is doing better.
 Both the United Kingdom and France appears to be the territories/Countries with the lowest sales performance. With France having a total of 15.56 while the United Kingdom has the lowest sales of a total of 11.75
 
 Task7
 
 Create a visualization based on your results for question #3 above, so that the user can switch between scenarios and account types. Please explain what insight we can gain from these results.
--	 	Based on the visualization, Actual Scenario happens to have the highest amount for every account type and Forecast Scenario has no amount record. Although for Actual Scenario, Account type balance has the lowest amount and compared to the other account types, there is a huge difference.
+-	 Based on the visualization, Actual Scenario happens to have the highest amount for every account type and Forecast Scenario has no amount record. Although for Actual Scenario, Account type balance has the lowest amount and compared to the other account types, there is a huge difference.
 Budget Scenario on the other hand, has only two account types (Expenditure and Revenue). There is also a vast difference in the total amount between the two account types.
 
 
 Task8
 
 Create a visualization based on your results for question #5 above. Please explain what insight we can gain from these results.
--	 	The visual in this dashboard shows that the lowest count of age group that we have are individuals older than 50. 
+-	 The visual in this dashboard shows that the lowest count of age group that we have are individuals older than 50. 
   This Visual also shows that there are more married women (2,425) and married men (2,712) that are younger 35. And there is a vast difference compared to single women (1,535) and single men (1,382) in this age group
  The most shocking part of this visual for me is the fact that there are more Single men (2,571) and Single women (2,711) between the age of 35 and age 50. Although the difference in count between single men, single women and Married men, married women in this age group is not much.
 

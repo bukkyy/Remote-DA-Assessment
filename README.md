@@ -17,9 +17,13 @@ Part 1: Data Quality Summary
 
 Before going deep in this summary, I’ll like to highlight that all data quality issues were fixed as I was working with the data. For every task, I was able to clean the data whilst getting results. This means that every code that answers every questions also contains codes used to clean up the data. 
 While working with the data provided, I had noticed some data quality issues and below are the following aspects that affects the data quality
+
 •**Accuracy**: This is a very important aspect of data quality. For whatever data described, it needs to be accurate. Generally, the inaccuracy of the data sets is quite high. Down to missing rows, missing columns and a lot of Irrelevant columns
+
 •**Relevancy**: I noticed a lot of columns and rows that were irrelevant in the dataset. It is important to exclude irrelevant data to increase optimization when running queries. And, to save cost especially with cloud storage.
+
 •**Completeness**: Not all columns were complete. A lot of columns had to many Null values for example, middle name column under DimCustomer table. In fact, there are some columns that have null values all through like the StandardCost column under the DimProduct table. This could also be an example of Irrelevant data as stated above
+
 •**Consistency**: Every data should have the date format as expected and can be cross reference-able with the same results. A very good example is the custommembers column on the Dimaccounts table. All rows are null except for row 97 which has “[Account].[Accounts].[Account Level 04].&[50]/[Account].[Accounts].[Account Level 02].&[97]”.
 
 

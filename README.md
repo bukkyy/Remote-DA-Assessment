@@ -72,7 +72,7 @@ Segregate the Number of Customers in each age group on Marital Status and Gender
 
 	
 
-**Part 2: Data Visualization & Analysis**
+**Part 3: Data Visualization & Analysis**
 
 **Task6**
 
